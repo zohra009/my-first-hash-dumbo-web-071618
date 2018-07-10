@@ -14,7 +14,7 @@ def shipping_manifest
       "whale bone corset" => 5,
       "procelain vases" => 2,
       "oil paintings" => 3
-  }
+    }
 
 end
 
